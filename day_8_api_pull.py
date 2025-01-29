@@ -64,6 +64,7 @@
 
 ########## VERSION 3: IDEAL FORMATTING BASED ON STRUCTURE EXPLORATION ###########
 
+# https://dictionaryapi.dev/?ref=freepublicapis.com
 
 import requests
 import json
